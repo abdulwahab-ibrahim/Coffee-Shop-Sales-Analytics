@@ -63,7 +63,7 @@ The dataset contains transaction-level coffee shop sales data, including:
 
 ## 📊 Dashboard Preview
 
-![Coffee Shop Dashboard](Coffee_Shop_Sales_Analytics/Dashboard/Dashboard.png)
+![Coffee Shop Dashboard](Coffee-Shop-Sales-Analytics/Dashboard/Dashboard.png)
 
 ---
 
