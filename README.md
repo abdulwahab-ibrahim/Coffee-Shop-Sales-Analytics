@@ -69,19 +69,24 @@ The dataset contains transaction-level coffee shop sales data, including:
 
 ## 💡 Key Insights
 
-- Add your first insight.
-- Add your second insight.
-- Add your third insight.
-- Add your fourth insight.
+- ☕ **Coffee generated the highest quantity sold**, making it the best-selling product across all product categories.
+- 💰 **Coffee generated the highest revenue** (approximately **$270K**), outperforming every other product category.
+- 📈 **Monthly revenue increased steadily**, rising from **$81.7K in January** to **$166.5K in June**, indicating strong business growth.
+- 🛍️ **June recorded the highest number of transactions** (approximately **35.4K**), making it the busiest month.
+- 🗓️ **Thursday and Friday experienced the highest customer traffic**, while **Saturday recorded the lowest transaction count**.
+- 🏪 **Sales were fairly balanced across the three store locations**, with each store contributing almost one-third of the total revenue.
+- 🥐 **Bakery and Tea were the next strongest product categories after Coffee**, while **Flavours and Packaged Chocolate generated the lowest revenue**.
+- 💵 **The Average Order Value remained approximately $4.69**, indicating consistent customer spending across transactions.
 
 ---
 
 ## 💼 Business Recommendations
 
-- Increase inventory for high-selling products.
-- Focus promotions during peak business hours.
-- Improve marketing for underperforming product categories.
-- Monitor store performance to identify growth opportunities.
+- Increase inventory levels for **Coffee products** to meet the consistently high customer demand.
+- Schedule additional staff during **Thursday and Friday**, when customer traffic is at its highest.
+- Develop promotional campaigns for **low-performing products**, such as Flavours and Packaged Chocolate, to improve sales.
+- Continue monitoring monthly sales trends to support inventory planning and demand forecasting.
+- Maintain the strong performance across all store locations by introducing targeted marketing and customer loyalty initiatives.
 
 ---
 
@@ -94,6 +99,8 @@ The dataset contains transaction-level coffee shop sales data, including:
 - Pivot Charts
 - Dashboard Design
 - Interactive Reporting
+- Business Intelligence
+- Data Visualization
 
 ---
 
